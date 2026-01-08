@@ -2,7 +2,7 @@
 
 <h2>1001개 Booking listings로 구성된 샘플 データセット</h2>
 
-![Booking dataset header](https://github.com/luminati-io/Booking-dataset-sample/blob/main/Booking-datasets.png)
+![Booking dataset header](https://github.com/bright-kr/Booking-dataset-sample/blob/main/Booking-datasets.png)
 
 1000개 이상의 레코드로 구성된 Booking データセット 샘플입니다. データセット은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
